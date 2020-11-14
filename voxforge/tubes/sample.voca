@@ -1,0 +1,42 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% PAY_V
+PAY        p ei
+TOP-UP      t op ap
+
+% TRANSFER_V
+TRANSFER   t ra ns fe r
+
+% NAME_N
+MANDIRI     ma n di ri
+OVO         o vo
+RENITA      re ni ta
+
+% NUMBER
+FIFTY       v i f ti
+FIVE        f ay v
+FORTY       f o r ti
+FOUR        f ow r
+NINE        n ay n
+NINETY      n ay n ti
+EIGHT       ey t
+EIGHTY      ey ti
+ONE        w ah n
+SEVEN        s eh v ih n
+SEVENTY     s eh v ih n ti
+SIX        s ih k s
+SIXTY       s ih k s ti
+TEN         t en
+THIRTY      th e r ti
+THREE        th r iy
+TWENTY      th w en ti
+TWO        t uw
+ZERO       z iy r ow
+
+%MULT
+HUNDRED     h an d r et
+THOUSAND    th a u z en
