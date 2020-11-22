@@ -1,24 +1,100 @@
+ACID            [ACID]          ae s ah d sp
+ALRIGHT         [ALRIGHT]       ao l r ay t sp
+ALTITUDE        [ALTITUDE]      ae l t ah t uw d sp
+AMPUTATE        [AMPUTATE]      ae m p y ah t ey t sp
+ARTHRITIS       [ARTHRITIS]     aa r th r ay t ah s sp
+BACK            [BACK]          b ae k sp
+BALL            [BALL]          b ao l sp
+BASEBALL        [BASEBALL]      b ey s b ao l sp
+BOX             [BOX]           b aa k s sp
+BRIGHT          [BRIGHT]        b r ay t sp
+BURN            [BURN]          b er n sp
+BUSBOYS         [BUSBOYS]       b ah s b oy z sp
+CHOICE          [CHOICE]        ch oy s sp
+COILS           [COILS]         k oy l z sp
+COIN            [COIN]          k oy n sp
+COLLECTION      [COLLECTION]    k ah l eh k sh ah n sp
+COLORATION      [COLORATION]    k ah l er ey sh ah n sp
+COMBINATION     [COMBINATION]   k aa m b ah n ey sh ah n sp
+COMMERCIAL      [COMMERCIAL]    k ah m er sh ah l sp
+COMPUTER        [COMPUTER]      k ah m p y uw t er sp
+COMPUTERIZE     [COMPUTERIZE]   k ah m p y uw t er ay z sp
+COPYRIGHT       [COPYRIGHT]     k aa p iy r ay t sp
+COUPLE          [COUPLE]        k ah p ah l sp
+CRADLE          [CRADLE]        k r ey d ah l sp
+CRITERIA        [CRITERIA]      k r ay t ih r iy ah sp
+CRUMBLE         [CRUMBLE]       k r ah m b ah l sp
+CUBA            [CUBA]          k y uw b ah sp
+CUBE            [CUBE]          k y uw b sp
+CUMULATIVE      [CUMULATIVE]    k y uw m y ah l ah t ih v sp
+CURING          [CURING]        k y uh r ih ng sp
+CURLING         [CURLING]       k er l ih ng sp
+CYCLING         [CYCLING]       s ay k ah l ih ng sp
+CYNTHIA         [CYNTHIA]       s ih n th iy ah sp
+DANFORTH        [DANFORTH]      d ae n f er th sp
+DEPTH           [DEPTH]         d eh p th sp
+DIGEST          [DIGEST]        d ay jh eh s t sp
+DIGITAL         [DIGITAL]       d ih jh ah t ah l sp
+DILIGENT        [DILIGENT]      d ih l ih jh ah n t sp
 EIGHTY          [EIGHTY]        ey t iy sp
+EMAIL           [EMAIL]         iy m ey l sp
 FIFTY           [FIFTY]         f ih f t iy sp
 FIVE            [FIVE]          f ay v sp
+FOOTBALL        [FOOTBALL]      f uh t b ao l sp
 FORTY           [FORTY]         f ao r t iy sp
+FORUMS          [FORUMS]        f ao r ah m z sp
+FORWARD         [FORWARD]       f ao r w er d sp
 FOUR            [FOUR]          f ao r sp
 FOURTY          [FOURTY]        f ao r t iy sp
+GUITAR          [GUITAR]        g ih t aa r sp
+HOME            [HOME]          hh ow m sp
 HUNDRED         [HUNDRED]       hh ah n d r ah d sp
+LISTEN          [LISTEN]        l ih s ah n sp
+LOUDER          [LOUDER]        l aw d er sp
+LOWER           [LOWER]         l ow er sp
 MANDIRI         [MANDIRI]       m a n d i r i sp
+MIDDLE          [MIDDLE]        m ih d ah l sp
+MINICOMPUTER    [MINICOMPUTER]  m ih n iy k ah m p y uw t er sp
+MUSIC           [MUSIC]         m y uw z ih k sp
+NEEDLE          [NEEDLE]        n iy d ah l sp
+NEXT            [NEXT]          n eh k s t sp
 NINE            [NINE]          n ay n sp
 NINETY          [NINETY]        n ay n t iy sp
+OBLIGATION      [OBLIGATION]    aa b l ah g ey sh ah n sp
 ONE             [ONE]           w ah n sp
 OVO             [OVO]           ow v ow sp
 PAY             [PAY]           p ey sp
+PIANO           [PIANO]         p iy ae n ow sp
+PLAY            [PLAY]          p l ey sp
+PLAYER          [PLAYER]        p l ey er sp
+POODLE          [POODLE]        p uw d ah l sp
+PREVIOUS        [PREVIOUS]      p r iy v iy ah s sp
+PRIVATE         [PRIVATE]       p r ay v ah t sp
+QUIET           [QUIET]         k w ay ah t sp
+READ            [READ]          r eh d sp
 RENITA          [RENITA]        r eh n iy t ah sp
+RESISTANCE      [RESISTANCE]    r ih z ih s t ah n s sp
+RIGHT           [RIGHT]         r ay t sp
+ROUGED          [ROUGED]        r uw zh d sp
+ROUGH           [ROUGH]         r ah f sp
+ROULETTE        [ROULETTE]      r uw l eh t sp
+RUBBER          [RUBBER]        r ah b er sp
+SADDLE          [SADDLE]        s ae d ah l sp
 SAM             [SAM]           s ae m sp
 SENT-END        []              sil
 SENT-START      []              sil
 SEVENTY         [SEVENTY]       s eh v ah n t iy sp
+SILENCE         [SILENCE]       s ay l ah n s sp
 SIX             [SIX]           s ih k s sp
 SIXTY           [SIXTY]         s ih k s t iy sp
+SKIP            [SKIP]          s k ih p sp
+SOFTER          [SOFTER]        s aa f t er sp
+SOLUBLE         [SOLUBLE]       s aa l y ah b ah l sp
+START           [START]         s t aa r t sp
+STOP            [STOP]          s t aa p sp
+SUPERVALUE      [SUPERVALUE]    s uw p er v ae l y uw sp
 TEN             [TEN]           t eh n sp
+TENNIS          [TENNIS]        t eh n ah s sp
 THIRTY          [THIRTY]        th er d iy sp
 THOUSAND        [THOUSAND]      th aw z ah n d sp
 THREE           [THREE]         th r iy sp
@@ -26,3 +102,7 @@ TOP-UP          [TOP-UP]        t aa p ah p sp
 TRANSFER        [TRANSFER]      t r ae n s f er sp
 TWENTY          [TWENTY]        t w eh n t iy sp
 TWO             [TWO]           t uw sp
+VALUATION       [VALUATION]     v ae l y uw ey sh ah n sp
+VIOLIN          [VIOLIN]        v ay ah l ih n sp
+VOLUME          [VOLUME]        v aa l y uw m sp
+WEATHER         [WEATHER]       w eh dh er sp
